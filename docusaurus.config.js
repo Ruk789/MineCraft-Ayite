@@ -6,21 +6,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
-  tagline: 'Docusaurus 插件文档模板',
+  title: '果汁',
+  tagline: '帮助手册 和 更新内容',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
+  // SeV
   url: 'https://neige7.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
-
+  baseUrl: '/JUSCRAFT/',
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'neige7', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: 'Ruk789', // Usually your GitHub org/user name.
+  projectName: 'Server', // Usually your repo name.
+  deploymentBranch: 'master',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/Neige7/Wiki-Template/blob/main'
+            'https://github.com/Ruk789/Server/blob/main'
         },
         blog: false,
         theme: {
@@ -59,10 +59,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'Docusaurus',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         hideOnScroll: false,
         items: [
@@ -70,16 +70,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '开始',
+            label: ' ',
           },
           // 搜索框
           {
             type: 'search',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/Neige7/Wiki-Template',
-            label: 'GitHub',
             position: 'right',
           },
           {
@@ -93,35 +88,35 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '宣传帖',
             items: [
               {
-                label: '开始',
-                to: '/intro',
+                label: '跳转帖',
+                href: 'https://klpbbs.com/thread-63090-1-1.html',
               },
             ],
           },
           {
-            title: '交流',
+            title: '游戏交流',
             items: [
               {
-                label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
+                label: '企鹅群',
+                href: 'https://jq.qq.com/?_wv=984966341&k=QKurhX6E',
               },
             ],
           },
           {
-            title: '插件发布',
+            title: '提交建议',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
+                label: '联系我',
+                href: 'https://github.com/Ruk789/MineCraft-Ayite',
               },
             ],
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ayite, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
