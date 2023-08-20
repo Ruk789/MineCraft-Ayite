@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: '企鹅群',
-                href: 'https://jq.qq.com/?_wv=984966341&k=QKurhX6E',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=29PhAVtH_-OJB2oY4AQ2s5n58qFZHz1P&authKey=ak9fQYJXqEeFSklkTkNukxWsSkuL3JcgvJCrQ1oOs1K8JYsIIxqWcaKb3MAPQ2uF&noverify=0&group_code=984966341',
               },
             ],
           },
@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: '联系我',
-                href: 'https://github.com/Ruk789/MineCraft-Ayite',
+                href: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1876169842&website=www.oicqzone.com',
               },
             ],
           },
