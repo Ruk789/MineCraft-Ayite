@@ -62,7 +62,7 @@ const config = {
         title: 'Docusaurus',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         hideOnScroll: false,
         items: [
