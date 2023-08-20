@@ -11,16 +11,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // SeV
-  url: 'https://neige7.github.io',
+  url: 'https://ruk789.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/JUSCRAFT/',
-  
+  baseUrl: '/MineCraft-Ayite/',
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Ruk789', // Usually your GitHub org/user name.
-  projectName: 'Server', // Usually your repo name.
-  deploymentBranch: 'master',
+  organizationName: 'ruk789', // Usually your GitHub org/user name.
+  projectName: 'MineCraft-Ayite', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
