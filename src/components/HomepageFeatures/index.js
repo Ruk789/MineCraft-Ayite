@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        服务器编写的插件可公益使用 　　( xxxx )
+        服务器编写的插件可公益使用
       </>
     ),
   },
