@@ -2,30 +2,17 @@
 sidebar_position: 4
 ---
 
-# 设置Action权限
+# 多功能
 
-* 回到`XXX-Wiki`仓库页面
+主要为玩家应该了解的功能，但仍在更新种。
 
-* 点击右上角的`Settings`按钮
 
-![](_images/Settings.png)
+# 飞行卷
 
-* 点击左侧的`Actions`按钮
+很多玩家都催更的飞行卷，已经实现了该功能。
+但是由于没有明确表明位置，可使用命令 `/point` 传送购买位置。
 
-![](_images/SettingsActions.png)
+	第一种是 500 金币持续飞行 5 分钟。
+	第二种是 3000 金币持续飞行 30 分钟。
 
-* 点击`General`按钮
-
-![](_images/General.png)
-
-* 翻到最下方的`Workflow permissions`部分
-
-* 勾选`Read and write permissions`
-
-* 勾选`Allow GitHub Actions to create and approve pull requests`
-
-![](_images/Action权限.png)
-
-* 点击`Save`按钮
-
-![](_images/Save.png)
+## 无
