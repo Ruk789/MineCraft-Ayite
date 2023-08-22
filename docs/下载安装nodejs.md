@@ -9,7 +9,7 @@ sidebar_position: 5
 全面优化排版和提示信息。  
 且现在只能补全特定命令。  
 
-[点击跳转，查看命令。](https://ruk789.github.io/MineCraft-Ayite/设置AEACCESS_TOKEN)
+[点击跳转到命令大全](./设置ACCESS_TOKEN.md)  
 
 ## 2023/8/21
 
