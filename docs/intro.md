@@ -15,3 +15,8 @@ sidebar_position: 1
     JE -> 服务器地址: cn-sq-h7-a.miaovps.com:34454 注意 JE 版只需要填写 IP 即可  
 
 请使用客户端 1.20.1 版本进入服务器，不支持跨版本因为会影响部分功能。
+
+<details>
+<summary>点击查看图示</summary>
+展开的内容
+</details>
