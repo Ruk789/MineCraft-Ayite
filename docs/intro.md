@@ -10,7 +10,7 @@ sidebar_position: 1
 目前已经正在着重更新内容，当然也包括 wiki 内容，玩个明白图个快乐!
 
     BE -> 服务器名称 (自取) / cn-sq-h7-a.miaovps.com (填写服务器地址) / 34455 (填写服务器端口)  
-    JE -> 服务器地址: cn-sq-h7-a.miaovps.com:34454 注意 JE 版只需要填写 IP 即可  
+    JE -> 服务器名称 (自取) / 服务器地址: cn-sq-h7-a.miaovps.com:34454 (注意 JE 版只需要填写 IP 即可)  
     
 <details>
 <summary>查看 <kbd>BE</kbd> 图示</summary>
