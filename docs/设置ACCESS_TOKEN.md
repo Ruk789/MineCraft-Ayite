@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <details>
 <summary>查看命令大全</summary>
-    
+
 1. 传送界面：
     - 输入中文 `开传送` 执行效果  
 
@@ -27,7 +27,7 @@ sidebar_position: 3
 6. 全体传送：   
     - 请求全体在线玩家传送该位置
     - 输入中文 `全体传送` 执行效果
-   
+
 </details>
 
 
