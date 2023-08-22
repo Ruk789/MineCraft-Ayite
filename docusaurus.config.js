@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '我的世界 - 果汁',
-  tagline: '获取游戏帮助或查看更新内容',
+  title: '果汁 Craft',
+  tagline: '获取游玩帮助或查看更新',
   favicon: 'img/favicon.ico',
 
   // SeV
