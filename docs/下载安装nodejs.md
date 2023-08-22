@@ -9,7 +9,7 @@ sidebar_position: 5
 全面优化排版和提示信息。  
 且现在只能补全特定命令。  
 
-* [点击跳转，查看命令。](https://ruk789.github.io/MineCraft-Ayite/%E8%AE%BE%E7%BD%AEACCESS_TOKEN])
+[点击跳转，查看命令。](https://ruk789.github.io/MineCraft-Ayite/%E8%AE%BE%E7%BD%AEACCESS_TOKEN])
 
 ## 2023/8/21
 
