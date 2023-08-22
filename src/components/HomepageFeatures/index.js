@@ -13,20 +13,20 @@ const FeatureList = [
     ),
   },
   {
-    title: '资源共享',
+    title: '公益服',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        服务器编写的插件可公益使用
+        不开设氪金项目，服务器稳定运行
       </>
     ),
   },
   {
-    title: '无',
+    title: '白名单',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        
+        你需要申请白名单并通过考核来游玩
       </>
     ),
   },
