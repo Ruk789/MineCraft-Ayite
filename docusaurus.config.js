@@ -99,7 +99,7 @@ const config = {
           {
             title: '加入我们',
             items: [
-            {
+              {
                 label: '白名单',
                 href: 'https://docs.qq.com/form/page/DS1ppZXR0bERhaGxq#/fill',
               },
