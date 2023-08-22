@@ -13,12 +13,12 @@ sidebar_position: 1
     JE -> 服务器名称 (自取) / 服务器地址: cn-sq-h7-a.miaovps.com:34454 (注意 JE 版只需要填写 IP 即可)  
     
 <details>
-<summary>查看 <kbd>BE</kbd> 图示</summary>
+<summary>查看 BE 图示</summary>
 ![](_images/BE教程.png)
 </details>
 
 <details>
-<summary>查看 <kbd>JE</kbd> 图示</summary>
+<summary>查看 JE 图示</summary>
 ![](_images/JE教程.png)
 </details>
 
