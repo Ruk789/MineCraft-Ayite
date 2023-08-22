@@ -9,6 +9,7 @@ sidebar_position: 3
 <details>
 <summary>查看命令大全</summary>
 ***
+  
 1.[^/tep] 可用中文 传送界面 表示，代表打开玩家传送界面。  
 2.[^/show] 可用中文 展示 表示，代表展示手中物品。  
 
