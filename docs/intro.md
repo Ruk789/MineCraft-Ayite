@@ -13,10 +13,15 @@ sidebar_position: 1
 
     BE -> 服务器名称 (自取) / cn-sq-h7-a.miaovps.com (填写服务器地址) / 34455 (填写服务器端口)  
     JE -> 服务器地址: cn-sq-h7-a.miaovps.com:34454 注意 JE 版只需要填写 IP 即可  
-
-请使用客户端 1.20.1 版本进入服务器，不支持跨版本因为会影响部分功能。
+    
+<details>
+<summary>查看基岩版进服图示</summary>
+![](_images/BE教程.png)
+</details>
 
 <details>
-<summary>点击查看图示</summary>
-展开的内容
+<summary>查看 Java 版进服图示</summary>
+![](_images/JE教程.png)
 </details>
+
+请使用客户端 1.20.1 版本进入服务器，不支持跨版本因为会影响部分功能。
