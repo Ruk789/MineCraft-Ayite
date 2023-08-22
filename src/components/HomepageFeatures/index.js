@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        你需要申请白名单并通过考核来游玩
+        申请白名单并通过考核来游玩服务器
       </>
     ),
   },
