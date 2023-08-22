@@ -9,7 +9,7 @@ sidebar_position: 3
 <details>
 <summary>查看命令大全</summary>
     
-1. 传送界面：   
+1. 传送界面：
     - 输入中文 `开传送` 执行效果  
 
 2. 返回死亡：   
